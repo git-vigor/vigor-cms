@@ -12,7 +12,7 @@ url: http://cms.livinvigor.com # the base hostname & protocol for your site
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
-bootwatch: paper
+bootwatch: yeti
 
 # Build settings
 markdown: kramdown
@@ -29,7 +29,7 @@ exclude:
   - .idea/
   - .gitignore
   - README.md
-timezone: Europe/Berlin
+timezone: America/Phoenix
 defaults:
 - scope:
     path: _posts
