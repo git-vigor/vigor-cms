@@ -12,4 +12,5 @@ fields:
   label: Tags
   description: add tags for this recipe
 pages:
+- _doc/Recipes/jumpstart-smoothie.md
 - _doc/Recipes/carrot-cake-smoothie.md
