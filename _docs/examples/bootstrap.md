@@ -3,7 +3,7 @@ title: Bootstrap Features
 permalink: "/docs/bootstrap/"
 
 ---
-## Buttons - DELETE ME...
+## Buttons - DELETE ME
 
 <p>
 <a href="#" class="btn btn-default">Default</a>
