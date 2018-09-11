@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Vigor CMS
 permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
