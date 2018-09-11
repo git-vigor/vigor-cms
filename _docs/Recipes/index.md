@@ -1,5 +1,5 @@
 ---
-title: Recipies
+title: Recipes
 ---
 
 List them out here?...
