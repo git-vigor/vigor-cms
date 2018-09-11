@@ -5,7 +5,6 @@ tags:
 - smoothie
 - carrot
 - cake
-published: false
 
 ---
 Tastes like a chilled smooth form of carrot cake mixed with pumpkin pie. The fats from coconut and hemp create the perfect consistency.
