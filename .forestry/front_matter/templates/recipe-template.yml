@@ -11,3 +11,5 @@ fields:
   name: tags
   label: Tags
   description: add tags for this recipe
+pages:
+- _doc/Recipes/carrot-cake-smoothie.md
