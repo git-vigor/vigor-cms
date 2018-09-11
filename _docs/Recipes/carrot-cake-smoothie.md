@@ -22,4 +22,4 @@ Tastes like a chilled smooth form of carrot cake mixed with pumpkin pie. The fat
 
 ## Directions
 
-Combine all ingredients in a high-speed blender and blend until perfectly smooth, scraping down sides a couple of times if necessary (for a cold smoothie, add 2-3 ice cubes). Pour into a large glass and garnish with a sprinkle more cinnamon, if desired.
+Combine all ingredients in a high-speed blender and blend until perfectly smooth, scraping down sides a couple of times if necessary (for a cold smoothie, add 2-3 ice cubes). Pour into a large glass and garnish with a sprinkle of more cinnamon, if desired.
